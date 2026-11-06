@@ -21,5 +21,8 @@ Get-Content input.txt | python solution.py
 ```
 
 ## Team Members & Contributors
-* **Priyanshi Agarwal** (GitHub ID: priyanshi-agarwal-2019) - Repository Host & Code Implementation
-* **Versha** - Algorithm Design & Documentation
+
+| Name | GitHub ID | Education | Email |
+| :--- | :--- | :--- | :--- |
+| **Priyanshi Agarwal** | [priyanshi-agarwal-2019](https://github.com) | M.Sc. Mathematics Student | [priyanshiagarwal2019@gmail.com](mailto:priyanshiagarwal2019@gmail.com) |
+
